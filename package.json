@@ -1,5 +1,5 @@
 {
-  "name": "eth-query",
+  "name": "@fksyuan/eth-query",
   "version": "2.1.2",
   "description": "like web3 but for minimalists",
   "main": "index.js",
@@ -15,10 +15,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereumjs/eth-query.git"
+    "url": "git+https://github.com/fksyuan/eth-query.git"
   },
   "bugs": {
-    "url": "https://github.com/ethereumjs/eth-query/issues"
+    "url": "https://github.com/fksyuan/eth-query/issues"
   },
-  "homepage": "https://github.com/ethereumjs/eth-query#readme"
+  "homepage": "https://github.com/fksyuan/eth-query#readme"
 }
